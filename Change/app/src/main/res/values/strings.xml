@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Change</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_information">InformationActivity</string>
+    <string name="title_activity_tower">TowerActivity</string>
+    <string name="title_activity_merchant">MerchantActivity</string>
+    <string name="title_activity_launch">LaunchActivity</string>
+</resources>
